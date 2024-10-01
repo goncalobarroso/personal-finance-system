@@ -1,0 +1,4 @@
+{
+    "expense_categories": ["groceries", "rent", "utilities", "entertainment", "transportation"],
+    "income_categories": ["salary", "freelance", "investment", "bonus"]
+}
