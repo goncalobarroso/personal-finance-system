@@ -4,27 +4,27 @@
         "type": "income",
         "amount": 20000.0,
         "category": "salary",
-        "description": "hoje fui pago e estou muito feliz yay!"
+        "description": ""
     },
     {
         "date": "01-12-2024",
         "type": "income",
         "amount": 100.0,
         "category": "salary",
-        "description": "kkkkkkkkkkk"
+        "description": "teste de descricao"
     },
     {
         "date": "01-12-2024",
         "type": "expense",
         "amount": 20000.0,
         "category": "entertainment",
-        "description": "gastei tudo em puta"
+        "description": ""
     },
     {
         "date": "10-10-2024",
         "type": "income",
         "amount": 200000.0,
         "category": "salary",
-        "description": "askdfm"
+        "description": "teste"
     }
 ]
